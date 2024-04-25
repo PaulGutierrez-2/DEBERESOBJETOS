@@ -35,3 +35,10 @@ Los sistemas de diseño son como mapas que guían a diseñadores y desarrollador
 Los sistemas de diseño funcionan a base de componentes interactivos con el usuario, usa tipografías, colores, campos, formas y figuras, existen elementos tangibles, los cuales son componentes físicos, como las herramientas para desarrollador, los intangibles, elementos abstractos, no físicos que influyen en la forma que se utiliza y se impedimenta el sistema, ya sea un valor o formas de trabajo. 
 
 Las bibliotecas de diseño albergan los elementos de la interfaz de usuario, que ya vienen preestablecidos. Esto permite que cualquier diseñador cree una interfaz específica para un cliente de manera eficiente y coherente.
+
+
+# PREGUNTAS
+
+#### LINK DE FIGMA
+
+https://www.figma.com/file/pbeZ8PejYXwASQJaclOBDL/Untitled-(Copy)?type=design&node-id=0%3A1&mode=design&t=SOgT4VL7d6MM4HOv-1
